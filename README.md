@@ -8,17 +8,17 @@
 
 打开[中国传媒大学学位论文管理系统](https://erums.cuc.edu.cn/)后，选择一篇或几篇你需要下载的论文。
 
+![image-20240517001614252](./assets/image-20240517001614252.png)
+
 打开论文详情页，点击右侧“查看全文”
 
-![image-20240517001614252](./assets/image-20240517001614252.png)
+![image-20240517001906058](./assets/image-20240517001906058.png)
 
 等待网页加载完毕，手动滚动网页，使得在线阅读器中的所有图片加载完毕。
 
-**注意：一定要等待网页中的所有图片加载完全，否则转换后的pdf文件可能缺页漏页！建议多次上下滑动确认全部页加载完全！**
-
 使用SingleFile插件抓取整个网页内容，你会获得一份html文件。
 
-![image-20240517001906058](./assets/image-20240517001906058.png)
+**注意：一定要等待网页中论文的所有内容图片加载完全，否则转换后的pdf文件可能缺页漏页！建议多次上下滑动确认全部页加载完全！**
 
 SingleFile浏览器插件下载地址：[Chrome](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)、[Firefox](https://addons.mozilla.org/firefox/addon/single-file)、[Edge](https://microsoftedge.microsoft.com/addons/detail/efnbkdcfmcmnhlkaijjjmhjjgladedno)
 
